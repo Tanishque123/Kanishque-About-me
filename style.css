@@ -58,3 +58,12 @@ p {
     .links:hover {
         background-color: blue;
     }
+.line {
+    height: 10px;
+    background: red;
+    width: 150px;
+    margin: 8px auto;
+}
+img:hover {
+    transform: scale(0.9);
+}
